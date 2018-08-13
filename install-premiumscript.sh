@@ -1,6 +1,6 @@
 #!/bin/bash
 # Created by http://www.vps-murah.net
-# Modified by 0123456
+# Modified by IEPH DEVELOPERS
 
 cd
 sed -i '$ i\screen -AmdS limit /root/limit.sh' /etc/rc.local
@@ -79,5 +79,5 @@ echo " "
 echo "Premium Script Successfully Installed!"
 echo "Restarting all services..."
 echo "Wait for a few minutes..."
-echo "Modified by 0123456"
+echo "Modified by IEPH DEVELOPERS"
 echo " "
