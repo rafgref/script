@@ -4,21 +4,7 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and PPTP VPN on
 
 ### Installation:
 
-- Centos 6 x86 & x64
 
-`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/Centos6 && chmod +x Centos6 && ./Centos6 && rm -f Centos6 && history -c`
-
-
-
-- Centos 7 (OVPN not included)
-
-`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/Centos7 && chmod +x Centos7 && ./Centos7 && rm -f Centos7 && history -c`
-
-
-
-- Debian 7 x86 & x64
-
-`apt-get -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/Debian7 && chmod +x Debian7 && ./Debian7 && rm -f Debian7 && history -c`
 
 
 
