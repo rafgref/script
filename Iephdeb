@@ -364,7 +364,9 @@ mkdir -p /home/vps/public_html
 cat > /home/vps/public_html/client.ovpn <<-END
 # OpenVPN Configuration by HostingTermurah.net
 # (Official Partner VPS-Murah.net)
-# Modified by IEPH DEVELOPERS
+# Modified by 0123456
+
+# remod for site by Ieph developers
 
 client
 dev tun
@@ -558,8 +560,8 @@ echo "--------------------------- Configuration Setup Server -------------------
 echo "                         Copyright HostingTermurah.net                          "
 echo "                        https://www.hostingtermurah.net                         "
 echo "               Created By Steven Indarto(fb.com/stevenindarto2)                 "
-echo "                                Modified by 0123456
-echo "                           remod for site by Ieph developers                            "
+echo "                                Modified by 0123456                             "
+echo "                           remod for site by Ieph developers                    "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
@@ -603,4 +605,4 @@ echo "   - Installation Log        : cat /root/log-install.txt"  | tee -a log-in
 echo ""  | tee -a log-install.txt
 echo "----------- Script Created By Steven Indarto(fb.com/stevenindarto2) ------------"
 echo "------------------------------ Modified by 0123456-----------------------------"
-echo "----------------------------remod for site by Ieph developers---------------------------"
+echo "----------------------------remod for site by Ieph developers------------------"
